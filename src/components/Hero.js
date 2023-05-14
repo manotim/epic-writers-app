@@ -9,11 +9,11 @@ const Hero = () => {
     <section className='hero' onMouseOver={closeSubmenu}>
       <div className='hero-center'>
         <article className='hero-info'>
-          <h1>Payments infrastructure for the internet</h1>
+          <h1>Hire the best freelancers for any job, online.</h1>
           <p>
-            Millions of companies of all sizes—from startups to Fortune 500s—use
-            Stripe’s software and APIs to accept payments, send payouts, and
-            manage their businesses online.
+            World's largest freelance meet point. Any job you can possibly
+            imagine of is here. Save more & get quotes for free. Pay only when
+            you're 100% satisfied.
           </p>
           <button className='btn'>Start now</button>
         </article>
