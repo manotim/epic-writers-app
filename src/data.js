@@ -1,4 +1,4 @@
-import { FaBook, FaBriefcase, FaCode } from 'react-icons/fa'
+import { FaBriefcase, FaCode } from 'react-icons/fa'
 import { RiComputerFill } from 'react-icons/ri'
 import { BsFillPenFill, BsKeyboardFill, BsGraphUpArrow } from 'react-icons/bs'
 import { DiCodeBadge } from 'react-icons/di'
