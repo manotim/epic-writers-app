@@ -261,6 +261,11 @@ Stripe Styles
     letter-spacing: 1px;
     width: 10rem;
   }
+
+  .link-btn:hover {
+    background: #724288;
+    transition: var(--transition);
+  }
 }
 
 /* hero media query */
